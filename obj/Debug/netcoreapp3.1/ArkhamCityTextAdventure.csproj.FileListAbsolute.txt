@@ -1,0 +1,11 @@
+C:\Users\joelm\source\repos\ArkhamCityTextAdventure\bin\Debug\netcoreapp3.1\ArkhamCityTextAdventure.exe
+C:\Users\joelm\source\repos\ArkhamCityTextAdventure\bin\Debug\netcoreapp3.1\ArkhamCityTextAdventure.deps.json
+C:\Users\joelm\source\repos\ArkhamCityTextAdventure\bin\Debug\netcoreapp3.1\ArkhamCityTextAdventure.runtimeconfig.json
+C:\Users\joelm\source\repos\ArkhamCityTextAdventure\bin\Debug\netcoreapp3.1\ArkhamCityTextAdventure.runtimeconfig.dev.json
+C:\Users\joelm\source\repos\ArkhamCityTextAdventure\bin\Debug\netcoreapp3.1\ArkhamCityTextAdventure.dll
+C:\Users\joelm\source\repos\ArkhamCityTextAdventure\bin\Debug\netcoreapp3.1\ArkhamCityTextAdventure.pdb
+C:\Users\joelm\source\repos\ArkhamCityTextAdventure\obj\Debug\netcoreapp3.1\ArkhamCityTextAdventure.csprojAssemblyReference.cache
+C:\Users\joelm\source\repos\ArkhamCityTextAdventure\obj\Debug\netcoreapp3.1\ArkhamCityTextAdventure.AssemblyInfoInputs.cache
+C:\Users\joelm\source\repos\ArkhamCityTextAdventure\obj\Debug\netcoreapp3.1\ArkhamCityTextAdventure.AssemblyInfo.cs
+C:\Users\joelm\source\repos\ArkhamCityTextAdventure\obj\Debug\netcoreapp3.1\ArkhamCityTextAdventure.dll
+C:\Users\joelm\source\repos\ArkhamCityTextAdventure\obj\Debug\netcoreapp3.1\ArkhamCityTextAdventure.pdb
